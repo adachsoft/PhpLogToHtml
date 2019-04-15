@@ -1,5 +1,9 @@
 {
-    "name": "vagrant/debugger2",
+    "name": "adachsoft/phplogtohtml",
+    "type": "library",
+    "description": "Check your logs in the HTML.",
+    "license": "MIT",
+    "keywords": ["Debug", "Dubugger", "Logs", "Console", "Error handler"],
     "authors": [
         {
             "name": "adachsoft",
