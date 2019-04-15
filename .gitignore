@@ -1,0 +1,6 @@
+test.php
+composer.lock
+vendor
+*.cache
+.idea
+*.log

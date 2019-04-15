@@ -1,0 +1,15 @@
+{
+    "name": "vagrant/debugger2",
+    "authors": [
+        {
+            "name": "adachsoft",
+            "email": "adach_soft@wp4b.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "adachsoft/debugger": "dev-master"
+    },
+    "require-dev": {
+    }
+}
