@@ -1,6 +1,7 @@
 test.php
 composer.lock
 vendor
+node_modules
 *.cache
 .idea
 *.log
